@@ -1,7 +1,7 @@
 {
   "name": {
     "label": "Namen",
-    "placeholder": "Name eingeben"
+    "placeholder": "Name eingeben i18n"
   },
   "gender": {
     "label": "Geschlecht",
